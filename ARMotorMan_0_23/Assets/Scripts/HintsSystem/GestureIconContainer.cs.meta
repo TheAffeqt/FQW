@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dfdf957951c7fc24880cbc617e61a34d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gestureC: {fileID: 21300000, guid: 24d31538b9afb4200b4dbbd7f198b1c0, type: 3}
+  - gestureFinger: {fileID: 21300000, guid: 5e0cb8b11a3be4ed5822d88fb8a1f38d, type: 3}
+  - gestureFist: {fileID: 21300000, guid: c38e3aa9f0afa4cb990de930f12a2f4a, type: 3}
+  - gestureL: {fileID: 21300000, guid: 71e17948040cb4b28b85020445ed50e1, type: 3}
+  - gestureOk: {fileID: 21300000, guid: 4c126d1bdcbdf47b5bde6b29d1272496, type: 3}
+  - gestureOpenHandBack: {fileID: 21300000, guid: 77fd8adbf15f44842964ee5fef1e1d7e,
+      type: 3}
+  - gesturePinch: {fileID: 21300000, guid: 04e00028849e7044a9d0e53032dca6ce, type: 3}
+  - gestureThumb: {fileID: 21300000, guid: 7ab55416564ad4e5d9577dc5e4015a66, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
